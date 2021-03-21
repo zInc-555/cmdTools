@@ -1,2 +1,2 @@
-echo cmdTools 1.0 by zInc //// Weather Moscow 10 Days
+echo cmdTools 1.0 by zInc //// Your iP:
 curl ifconfig.co
